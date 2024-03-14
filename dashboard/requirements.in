@@ -1,0 +1,12 @@
+dash
+dash_auth
+flask
+gevent
+gunicorn
+mysql-connector
+numpy
+pandas
+plotly
+pre-commit
+pymongo
+cryptography
